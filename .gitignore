@@ -29,6 +29,4 @@ hs_err_pid*
 out
 gen
 .gradle/
-.idea/gradle.xml
-.idea/misc.xml
-.idea/workspace.xml
+.idea
