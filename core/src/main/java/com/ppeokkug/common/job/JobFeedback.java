@@ -1,4 +1,4 @@
-package com.ppeokkug.common;
+package com.ppeokkug.common.job;
 
 import java.io.Serializable;
 

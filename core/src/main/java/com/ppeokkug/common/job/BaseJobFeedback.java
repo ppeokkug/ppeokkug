@@ -1,4 +1,4 @@
-package com.ppeokkug.common;
+package com.ppeokkug.common.job;
 
 public class BaseJobFeedback implements JobFeedback {
     boolean runResult;

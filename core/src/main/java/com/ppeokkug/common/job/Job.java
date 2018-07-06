@@ -1,6 +1,4 @@
-package com.ppeokkug.common;
-
-import java.io.Serializable;
+package com.ppeokkug.common.job;
 
 public interface Job {
     JobFeedback run(String parameter);
